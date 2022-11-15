@@ -1,0 +1,23 @@
+{
+	"songs": [
+		["Kidnap", "KarenIcon", [146, 113, 253]],
+		["True Mother", "KarenIcon", [146, 113, 253]],
+		["Dieheart", "KarenIcon", [146, 113, 253]]
+	],  
+
+	"weekCharacters": [
+		"Dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "lolk",
+     "difficulties": "easy, normal, hard, skill",
+	
+"storyName": "Karen Encounter",
+	"weekBefore": "tutorial",
+	"weekName": "Week 1",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
